@@ -233,7 +233,7 @@ columns = df.columns
 
 columns = columns.drop("Outcome")
 
-# The values to be given for incomplete observations are given the median value of people who are not sick and the median values of people who are sick.
+#The values to be given for incomplete observations are given the median value of people who are not sick and the median values of people who are sick.
 
 columns = df.columns
 
